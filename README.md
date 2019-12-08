@@ -9,4 +9,5 @@ autosoft
 # b
 b()
 {
+cmsprog
 }
